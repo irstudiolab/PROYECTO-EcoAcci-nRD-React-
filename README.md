@@ -26,7 +26,8 @@ EcoAcciónRD es una aplicación web interactiva desarrollada en React que permit
 - A dividir el trabajo en equipo usando ramas y pull requests.
 
 ## 🚀 Enlace de Despliegue
-*(Pegar aquí el enlace cuando lo suban a Vercel o Netlify)*
+Puedes ver la aplicación funcionando en vivo aquí: 
+👉 **[EcoAcciónRD en Netlify](https://bespoke-lebkuchen-a2d11c.netlify.app)**
 
 ## ⚙️ Cómo ejecutar en local
 1. Clonar el repositorio.
